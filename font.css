@@ -74,9 +74,6 @@ header {
     padding: 10px;
     color: black;
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
-    gap: 10px;
-    text-align: center;
 }
 
 h2 {
